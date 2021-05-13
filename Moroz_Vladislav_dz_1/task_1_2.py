@@ -32,3 +32,4 @@ for cube_num in not_even_cube:
 print(not_even_cube)
 # Вызываем ранее созданную функцию
 count_sum()
+# here homework

@@ -54,3 +54,4 @@ else:
     minutes = hours_to_minutes // 60
     seconds = duration % 60
     print(f"{years} лет {months} мес {days} дн {hours} час {minutes} мин {seconds} сек")
+    # here homework

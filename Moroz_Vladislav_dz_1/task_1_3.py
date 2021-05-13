@@ -17,3 +17,4 @@ for element in percent:
         print(f"{element} процента")
     elif 4 < element <= 20:
         print(f"{element} процентов")
+# here homework
