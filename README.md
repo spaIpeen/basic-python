@@ -1,2 +1,2 @@
-Homework from Basic Python
+Homework from Basic Python.
 There is a very bad repository structure
